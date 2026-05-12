@@ -13,8 +13,8 @@ title_separator          : "-"
 # name                     : &name "Your Name"
 # description              : &description "personal description"
 url                      : https://sfu-tai.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "/tdl-spring-2025" # the subpath of your site, e.g. "/blog"
-repository               : "sfu-tai/tdl-spring-2025"
+baseurl                  : "/tdl-summer-2026" # the subpath of your site, e.g. "/blog"
+repository               : "sfu-tai/tdl-summer-2026"
 
 # SEO Related
 google_site_verification : 5l9uwIg7an2EBi-3ex03wjWyN4-jfLu8At6GEUe0EbM
