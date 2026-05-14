@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "CMPT 419/983 Trustworthy Deep Learning | Spring 2025 | Simon Fraser University"
+title: "CMPT 419/983 Trustworthy Deep Learning | Summer 2026 | Simon Fraser University"
 barename: about
 layout: default_main
 redirect_from:
