@@ -23,7 +23,7 @@ This is a seminar-style course for trustworthy deep learning. The first half of 
 | --------------------- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------- | ------- |
 | Week 1 (5/10 - 5/16) | Tue (5/12) 1h | (Lecture) [Syllabus, Introduction to Deep Learning I](https://1sfu-my.sharepoint.com/:b:/g/personal/linyi_sfu_ca/IQCEvtasmn_ySZniTd-QmxLMAcoHUCoPN8kLIJ5UCvE0vLs?e=kehGH3) | Homework 0 Release                                      | See References in slides     |
 |                       | Thur (5/14) 2h | **Lecture cancelled** |                                                         |  |
-| Week 2 (5/17 - 5/23) | Tue (5/19) 1h | (Lecture) [Introduction to Deep Learning II]([TAI-Summer2026-W2P1.pdf](https://1sfu-my.sharepoint.com/:b:/g/personal/linyi_sfu_ca/IQDvb4DsL1fCR5C4xIhZzgpjARNQb9h_YlyVQ-PmrId-ywo?e=q68F7n)) |                                                         | See References in Slides     |
+| Week 2 (5/17 - 5/23) | Tue (5/19) 1h | (Lecture) [Introduction to Deep Learning II](https://1sfu-my.sharepoint.com/:b:/g/personal/linyi_sfu_ca/IQDvb4DsL1fCR5C4xIhZzgpjARNQb9h_YlyVQ-PmrId-ywo?e=q68F7n) |                                                         | See References in Slides     |
 |                       | Thur (5/21) 2h | (Lecture) Introduction to Deep Learning III |  | See References in Slides     |
 | Week 3 (5/24 - 5/30) | Tue (5/26) 1h | (Lecture) Introduction to Deep Learning IV                   |                                                              | See References in Slides                                     |
 |                       | Thur (5/28) 2h | (Lecture) Course Presentation Instructions; Trustworthy Deep Learning Overview | Presentation Signing-up Sheet Release<br>Homework 0 Due (5/30) | See References in Slides                                     |
@@ -48,7 +48,6 @@ This is a seminar-style course for trustworthy deep learning. The first half of 
 | Week 13 (8/2 - 8/8) | Tue (8/4) 1h | Presentation | Notes Submission Required<br>Course project Due |  |
 |                       | Thur (8/6) 2h | Presentation <br> (Lecture) Course Project Discussion, Closing Remarks | Notes Submission Required<br> |  |
 | Week 14 (8/9 - 8/15) |    | Grade Released |                                                         |      |
-
 
 
 </div>
