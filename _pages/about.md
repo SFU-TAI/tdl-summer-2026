@@ -25,23 +25,23 @@ This is a seminar-style course for trustworthy deep learning. The first half of 
 |                       | Thur (5/14) 2h | **Lecture cancelled** |                                                         |  |
 | Week 2 (5/17 - 5/23) | Tue (5/19) 1h | (Lecture) [Introduction to Deep Learning II](https://1sfu-my.sharepoint.com/:b:/g/personal/linyi_sfu_ca/IQDvb4DsL1fCR5C4xIhZzgpjARNQb9h_YlyVQ-PmrId-ywo?e=q68F7n) |                                                         | See References in Slides     |
 |                       | Thur (5/21) 2h | (Lecture) [Introduction to Deep Learning III](https://1sfu-my.sharepoint.com/:b:/g/personal/linyi_sfu_ca/IQCzNcWj6WvVRY89EbB9LK2QAT5nEhOBvAIcsJZAqWS9CVE?e=aLVzaP) |  | See References in Slides     |
-| Week 3 (5/24 - 5/30) | Tue (5/26) 1h | (Lecture) [Introduction to Deep Learning IV](https://1sfu-my.sharepoint.com/:b:/g/personal/linyi_sfu_ca/IQBwhtxO37vBTrYzOr2qeR6PATSApAeO2EsxLYxMOAsEYPw?e=DXZZM8) |                                                              | See References in Slides                                     |
-|                       | Thur (5/28) 2h | (Lecture) Course Presentation Instructions; Trustworthy Deep Learning Overview | Presentation Signing-up Sheet Release<br>Homework 0 Due (5/30) | See References in Slides                                     |
+| Week 3 (5/24 - 5/30) | Tue (5/26) 1h | (Lecture) [Introduction to Deep Learning III](https://1sfu-my.sharepoint.com/:b:/g/personal/linyi_sfu_ca/IQCzNcWj6WvVRY89EbB9LK2QAT5nEhOBvAIcsJZAqWS9CVE?e=aLVzaP) (Continued) |                                                              | See References in Slides                                     |
+|                       | Thur (5/28) 2h | (Lecture) Course Presentation Instructions; [Introduction to Deep Learning IV](https://1sfu-my.sharepoint.com/:b:/g/personal/linyi_sfu_ca/IQBwhtxO37vBTrYzOr2qeR6PATSApAeO2EsxLYxMOAsEYPw?e=DXZZM8); Trustworthy Deep Learning Overview | Presentation Signing-up Sheet Release<br>Homework 0 Due (5/30) | See References in Slides                                     |
 | Week 4 (5/31 - 6/6) | Tue (6/2) 1h | (Lecture) Robustness Threats in Deep Learning - Attacks I    |                                                              | See References in Slides                                     |
 |                       | Thur (6/4) 2h | (Lecture) Robustness Threats in Deep Learning - Attacks II   |                                                              | See References in Slides                                     |
 | Week 5 (6/7 - 6/13) | Tue (6/9) 1h | (Lecture) Robustness Threats in Deep Learning - Defenses     |                                                              | See References in Slides                                     |
 |                       | Thur (6/11) 2h | (Lecture) Robustness Threats in Deep Learning - Certification I | Course Project Release                                       | See References in Slides                                     |
-| Week 6 (6/14) - 6/20) | Tue (6/16) 1h | (Lecture) Robustness Threats in Deep Learning - Certification II | Presentation Signing-up Due                                  | See References in Slides                                     |
-|                       | Thur (6/18) 2h | (Lecture) Robustness Threats in Deep Learning - Certification III |  | See References in Slides |
-| Week 7 (6/21 - 6/27) | Tue (6/23) 1h | Presentation | Notes Submission Required |      |
-|  | Thur (6/25) 2h | Presentation | Notes Submission Required | |
+| Week 6 (6/14) - 6/20) | Tue (6/16) 1h | (Lecture) Robustness Threats in Deep Learning - Certification II |                                                              | See References in Slides                                     |
+|                       | Thur (6/18) 2h | (Lecture) Robustness Threats in Deep Learning - Certification III | Presentation Signing-up Due | See References in Slides |
+| Week 7 (6/21 - 6/27) | Tue (6/23) 1h | (Lecture) Large Language Models: Overview                    |                                                              | [CMU 11-711 ANLP](https://www.phontron.com/class/anlp-fall2024/)<br>[Stanford CS336](https://cs336.stanford.edu/) |
+|  | Thur (6/25) 2h | (Lecture) LLM and Agentic Trustworthiness: Overview          |                                                              | [DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models](https://arxiv.org/abs/2306.11698)<br/>[AI Risk Management Should Incorporate Both Safety and Security](https://arxiv.org/abs/2405.19524)<br/>[Recommendations for Technical AI Safety Research Directions](https://alignment.anthropic.com/2025/recommended-directions/)<br/>[DecodingTrust-Agent Platform (DTap): A Controllable and Interactive Red-Teaming Platform for AI Agents](https://arxiv.org/pdf/2605.04808) |
 | Week 8 (6/28 - 7/4) | Tue (6/30) 1h | Presentation | Notes Submission Required |  |
 |                       | Thur (7/2) 2h | Presentation                               | Notes Submission Required |         |
 | Week 9 (7/5 - 7/11) | Tue (7/7) 1h | Presentation | Notes Submission Required |  |
 |                       | Thur (7/9) 2h | Presentation | Notes Submission Required |  |
 | Week 10 (7/12 - 7/18) | Tue (7/14) 1h | Presentation | Notes Submission Required |  |
-|                       | Thur (7/16) 2h | (Lecture) Large Language Models: Overview |  | [CMU 11-711 ANLP](https://www.phontron.com/class/anlp-fall2024/)<br>[Stanford CS336](https://cs336.stanford.edu/) |
-| Week 11 (7/17 - 7/25) | Tue (7/21) 1h | (Lecture) LLM and Agentic Trustworthiness: Overview |                                                         | [DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models](https://arxiv.org/abs/2306.11698)<br/>[AI Risk Management Should Incorporate Both Safety and Security](https://arxiv.org/abs/2405.19524)<br/>[Recommendations for Technical AI Safety Research Directions](https://alignment.anthropic.com/2025/recommended-directions/)<br/>[DecodingTrust-Agent Platform (DTap): A Controllable and Interactive Red-Teaming Platform for AI Agents](https://arxiv.org/pdf/2605.04808) |
+|                       | Thur (7/16) 2h | Presentation                                                 | Notes Submission Required                                    |                                                              |
+| Week 11 (7/17 - 7/25) | Tue (7/21) 1h | Presentation                                                 | Notes Submission Required                                    |                                                              |
 |                       | Thur (7/23) 2h | Presentation | Notes Submission Required |  |
 | Week 12 (7/26 - 8/1) | Tue (7/28) 1h | Presentation | Notes Submission Required                                    |  |
 |                       | Thur (7/30) 2h | Presentation | Notes Submission Required                                    |  |
@@ -67,9 +67,10 @@ This is a seminar-style course for trustworthy deep learning. The first half of 
 - Homework 0
   - Deadline: 23:59, <s>May 23, 2026 (end of week 2)</s> May 30, 2026 (end of week 3)
 - Presentation:
-  - Signing-up spreadsheet to be released by the end of Week 3 for signing up
+  - Signing-up spreadsheet and instructions to be released on May 28 on CourSys for signing up
+  - Signing-up due date: Jun 18
 - Course project:
-  - To be released by the end of Week 5
+  - To be released by the end of Week 5 (Jun 14)
   - Due: Beginning of Week 13 (Aug 4)
 - Note Submission:
   - Submission links dynamically released on CourSys
