@@ -29,8 +29,8 @@ This is a seminar-style course for trustworthy deep learning. The first half of 
 |                       | Thur (5/28) 2h | (Lecture) Course Presentation Instructions; [Introduction to Deep Learning IV](https://1sfu-my.sharepoint.com/:b:/g/personal/linyi_sfu_ca/IQBwhtxO37vBTrYzOr2qeR6PATSApAeO2EsxLYxMOAsEYPw?e=DXZZM8); [Trustworthy Deep Learning Overview](https://1sfu-my.sharepoint.com/:b:/g/personal/linyi_sfu_ca/IQCGYze73NfcS5xmbxF307AXAbUt4-Sb2nQmGlrzHiwgbV0?e=o6EfTl) | Presentation Signing-up Sheet Release<br>Homework 0 Due (5/30) | See References in Slides                                     |
 | Week 4 (5/31 - 6/6) | Tue (6/2) 1h | (Lecture) [Robustness Threats in Deep Learning - Attacks I](https://1sfu-my.sharepoint.com/:b:/g/personal/linyi_sfu_ca/IQDVmO48FpfUSrjXOe8Q9QAMAVm-1b6Aet3fJLKZpsi6MvU?e=XfLLvz) |                                                              | See References in Slides                                     |
 |                       | Thur (6/4) 2h | (Lecture) [Robustness Threats in Deep Learning - Attacks II](https://1sfu-my.sharepoint.com/:b:/g/personal/linyi_sfu_ca/IQDdatkn8T9zQa_bJPHGMfonAUFnKBZZY9zPtkPeU4ykbLA?e=qmU9AY) |                                                              | See References in Slides                                     |
-| Week 5 (6/7 - 6/13) | Tue (6/9) 1h | (Lecture) Robustness Threats in Deep Learning - Defenses     |                                                              | See References in Slides                                     |
-|                       | Thur (6/11) 2h | (Lecture) Robustness Threats in Deep Learning - Certification I | Course Project Release                                       | See References in Slides                                     |
+| Week 5 (6/7 - 6/13) | Tue (6/9) 1h | (Lecture) [Robustness Threats in Deep Learning - Defenses](https://1sfu-my.sharepoint.com/:b:/g/personal/linyi_sfu_ca/IQA7scMwjusIQ4oV9Z4fXrG1AVYueoMtr7UqRCWJVv2yWJs?e=YoMioy)     |                                                              | See References in Slides                                     |
+|                       | Thur (6/11) 2h | (Lecture) [Robustness Threats in Deep Learning - Certification I](https://1sfu-my.sharepoint.com/:b:/g/personal/linyi_sfu_ca/IQAEt-OIpfICR5otZPHE4vaWAZcPv3IchE0P6j3x-bv2L3w?e=dVy5dO) | Course Project Release                                       | See References in Slides                                     |
 | Week 6 (6/14) - 6/20) | Tue (6/16) 1h | (Lecture) Robustness Threats in Deep Learning - Certification II |                                                              | See References in Slides                                     |
 |                       | Thur (6/18) 2h | (Lecture) Robustness Threats in Deep Learning - Certification III | Presentation Signing-up Due | See References in Slides |
 | Week 7 (6/21 - 6/27) | Tue (6/23) 1h | (Lecture) Large Language Models: Overview                    |                                                              | [CMU 11-711 ANLP](https://www.phontron.com/class/anlp-fall2024/)<br>[Stanford CS336](https://cs336.stanford.edu/) |
@@ -67,7 +67,7 @@ This is a seminar-style course for trustworthy deep learning. The first half of 
 - Homework 0
   - Deadline: 23:59, <s>May 23, 2026 (end of week 2)</s> May 30, 2026 (end of week 3)
 - Presentation:
-  - Signing-up spreadsheet and instructions to be released on May 28 on CourSys for signing up
+  - Signing-up spreadsheet and instructions released on May 28 on CourSys for signing up
   - Signing-up due date: Jun 18
 - Course project:
   - To be released by the end of Week 5 (Jun 14)
