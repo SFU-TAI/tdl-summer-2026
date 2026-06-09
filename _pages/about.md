@@ -31,8 +31,8 @@ This is a seminar-style course for trustworthy deep learning. The first half of 
 |                       | Thur (6/4) 2h | (Lecture) [Robustness Threats in Deep Learning - Attacks II](https://1sfu-my.sharepoint.com/:b:/g/personal/linyi_sfu_ca/IQDdatkn8T9zQa_bJPHGMfonAUFnKBZZY9zPtkPeU4ykbLA?e=qmU9AY) |                                                              | See References in Slides                                     |
 | Week 5 (6/7 - 6/13) | Tue (6/9) 1h | (Lecture) [Robustness Threats in Deep Learning - Defenses](https://1sfu-my.sharepoint.com/:b:/g/personal/linyi_sfu_ca/IQA7scMwjusIQ4oV9Z4fXrG1AVYueoMtr7UqRCWJVv2yWJs?e=YoMioy)     |                                                              | See References in Slides                                     |
 |                       | Thur (6/11) 2h | (Lecture) [Robustness Threats in Deep Learning - Certification I](https://1sfu-my.sharepoint.com/:b:/g/personal/linyi_sfu_ca/IQAEt-OIpfICR5otZPHE4vaWAZcPv3IchE0P6j3x-bv2L3w?e=dVy5dO) | Course Project Release                                       | See References in Slides                                     |
-| Week 6 (6/14) - 6/20) | Tue (6/16) 1h | (Lecture) Robustness Threats in Deep Learning - Certification II |                                                              | See References in Slides                                     |
-|                       | Thur (6/18) 2h | (Lecture) Robustness Threats in Deep Learning - Certification III | Presentation Signing-up Due | See References in Slides |
+| Week 6 (6/14) - 6/20) | Tue (6/16) 1h | (Lecture) Introduction to Course Project |                                                              | See References in Slides                                     |
+|                       | Thur (6/18) 2h | (Lecture) Robustness Threats in Deep Learning - Certification II | Presentation Signing-up Due | See References in Slides |
 | Week 7 (6/21 - 6/27) | Tue (6/23) 1h | (Lecture) Large Language Models: Overview                    |                                                              | [CMU 11-711 ANLP](https://www.phontron.com/class/anlp-fall2024/)<br>[Stanford CS336](https://cs336.stanford.edu/) |
 |  | Thur (6/25) 2h | (Lecture) LLM and Agentic Trustworthiness: Overview          |                                                              | [DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models](https://arxiv.org/abs/2306.11698)<br/>[AI Risk Management Should Incorporate Both Safety and Security](https://arxiv.org/abs/2405.19524)<br/>[Recommendations for Technical AI Safety Research Directions](https://alignment.anthropic.com/2025/recommended-directions/)<br/>[DecodingTrust-Agent Platform (DTap): A Controllable and Interactive Red-Teaming Platform for AI Agents](https://arxiv.org/pdf/2605.04808) |
 | Week 8 (6/28 - 7/4) | Tue (6/30) 1h | Presentation | Notes Submission Required |  |
@@ -48,7 +48,6 @@ This is a seminar-style course for trustworthy deep learning. The first half of 
 | Week 13 (8/2 - 8/8) | Tue (8/4) 1h | Presentation | Notes Submission Required<br>Course project Due |  |
 |                       | Thur (8/6) 2h | Presentation <br> (Lecture) Course Project Discussion, Closing Remarks | Notes Submission Required<br> |  |
 | Week 14 (8/9 - 8/15) |    | Grade Released |                                                         |      |
-
 
 </div>
 
