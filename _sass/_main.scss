@@ -1,29 +1,26 @@
-@import "../node_modules/bootstrap/scss/bootstrap";
-@import "../node_modules/bootstrap/scss/_variables.scss";
-
 .navbar-btn {
     --bs-btn-font-weight: 600;
     --bs-btn-color: purple;
     --bs-btn-bg: var(--white);
     --bs-btn-border-color: purple;
     --bs-btn-hover-color: purple;
-    --bs-btn-hover-bg: #{tint-color(purple, 80%)};
-    --bs-btn-hover-border-color: #{tint-color(purple, 80%)};
-    --bs-btn-focus-shadow-rgb: #{tint-color(purple, 80%)};
+    --bs-btn-hover-bg: #E6CCE6;
+    --bs-btn-hover-border-color: #E6CCE6;
+    --bs-btn-focus-shadow-rgb: #E6CCE6;
     --bs-btn-active-color: purple;
-    --bs-btn-active-bg: #{tint-color(purple, 60%)};
-    --bs-btn-active-border-color: #{tint-color(purple, 60%)};
+    --bs-btn-active-bg: #CC99CC;
+    --bs-btn-active-border-color: #CC99CC;
     --bs-btn-border-width: 0;
 }
 
 a {
-    color: #{tint-color(purple, 25%)};
+    color: #A040A0;
 }
 
 a:hover {
-    color: #{tint-color(purple, 50%)};
+    color: #C080C0;
 }
 
 a:active {
-    color: #{tint-color(purple, 10%)};
+    color: #8D1A8D;
 }

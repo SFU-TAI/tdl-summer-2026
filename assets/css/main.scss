@@ -51,7 +51,7 @@
 
 .mission-card-title {
   color: var(--bs-success);
-  background-color: #{tint-color($success, 90%)};
+  background-color: #E8F3EE;
 }
 
 .card-title {
@@ -63,7 +63,7 @@
 }
 
 .research-div:hover {
-  background-color: #{tint-color($black, 97%)};
+  background-color: #F7F7F7;
 }
 
 .card {
@@ -88,7 +88,7 @@
 
 .pub_bib_body {
   font-family: 'Courier New', Courier, monospace;
-  background-color: #{tint-color($black, 97%)};
+  background-color: #F7F7F7;
 }
 
 .side-btn {
@@ -104,7 +104,7 @@
 }
 
 #schedule_table tr:hover td {
-  background-color: #{tint-color($black, 97%)};
+  background-color: #F7F7F7;
 }
 
 html {
