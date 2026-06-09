@@ -67,7 +67,7 @@ This is a seminar-style course for trustworthy deep learning. The first half of 
   - Deadline: 23:59, <s>May 23, 2026 (end of week 2)</s> May 30, 2026 (end of week 3)
 - Presentation:
   - Signing-up spreadsheet and instructions released on May 28 on CourSys for signing up
-  - Signing-up due date: Jun 18
+  - Signing-up due date: Jun 18 (Week 6 Thursday)
 - Course project:
   - To be released by the end of Week 5 (Jun 14)
   - Due: Beginning of Week 13 (Aug 4)
