@@ -48,6 +48,7 @@ This is a seminar-style course for trustworthy deep learning. The first half of 
 | Week 13 (8/2 - 8/8) | Tue (8/4) 1h | (Presentation) **LLM Monitoriability and Control**<br>- [Chain of Thought Monitorability  A New and Fragile Opportunity for AI Safety](https://arxiv.org/abs/2507.11473) [arXiv] (15min)<br>- [Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision](https://arxiv.org/abs/2312.09390) [arXiv (openai)] (25min) | Notes Submission Required<br>Course project Due |  |
 |                       | Thur (8/6) 2h | (Presentation) **LLM Interpretability and Steering**<br>- [Emotion Concepts and their Function in a Large Language Model](https://transformer-circuits.pub/2026/emotions/index.html) [blog (anthropic)] (25min)<br>- [SAE-V: Interpreting Multimodal Models for Enhanced Alignment]([2502.17514] SAE-V: Interpreting Multimodal Models for Enhanced Alignment) [ICML 2025] (15min)<br>- [Steering Knowledge Selection Behaviours in LLMs via SAE-Based Representation Engineering](https://arxiv.org/abs/2410.15999) [NAACL 2025] (15min) <br> (Lecture) Course Project Discussion, Closing Remarks | Notes Submission Required<br> |  |
 | Week 14 (8/9 - 8/15) |    | Grade Released |                                                         |      |
+
 </div>
 
 <!-- <h4 id='ext'>Extended Topics <a href='#ext'>#</a></h4> -->
@@ -67,7 +68,8 @@ This is a seminar-style course for trustworthy deep learning. The first half of 
   - Grades released
 - Presentation:
   - Signing-up spreadsheet and instructions released on May 28 on CourSys for signing up
-  - Signing-up due date: Jun 18 (Week 6 Thursday)
+  - Signing-up due date: Jun 18 (Week 6 Thursday) - due passed
+  - Presentation schedule concretized
 - Course project:
   - Released on Week 5 (Jun 11)
   - [Development kit](https://1sfu-my.sharepoint.com/:u:/g/personal/linyi_sfu_ca/IQAYRmeSMmLuRqwnJoLXNswCAb2pYonaRZeo0UtrmWtM0hQ?e=cXO2Kb)
